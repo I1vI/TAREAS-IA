@@ -32,7 +32,7 @@ Este repositorio contiene varias tareas tanto individuales como grupales relacio
 ### 3️⃣ Tesis con IA
 - Proyecto de tesis integrando IA para resolver problemas complejos.
 
-### 4️⃣ Algoritmo Genético (Excel Completar el del Lic)
+### 4️⃣ Algoritmo Genético
 - Desarrollo y mejora del algoritmo genético en una hoja de cálculo Excel.
 
 ### 5️⃣ Flujo de Trabajo (Workflow)
@@ -47,8 +47,8 @@ Este repositorio contiene varias tareas tanto individuales como grupales relacio
 IA-Project/
 │
 ├── TRABAJOS INDIVIDUALES/
-│   ├── (EDWIN ALIAGA YUJRA) LEY IA.pdf
-│   └── (EDWIN ALIAGA YUJRA) SUPERCOMPUTADORAS.pdf
+│   ├── LEY IA.pdf
+│   └── SUPERCOMPUTADORAS.pdf
 │
 ├── Workflow/
 │   ├── corrida/
