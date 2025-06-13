@@ -1,4 +1,4 @@
-# 📚 Proyecto de Inteligencia Artificial y Computación
+# 📚 Proyecto de Inteligencia Artificial
 
 Este repositorio contiene varias tareas tanto individuales como grupales relacionadas con el mundo de la inteligencia artificial, supercomputadoras, algoritmos, programación y más. A continuación se detallan las tareas y sus respectivas descripciones.
 
